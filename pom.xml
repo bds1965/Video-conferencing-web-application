@@ -6,6 +6,7 @@
 		<groupId>org.kurento.tutorial</groupId>
 		<artifactId>kurento-tutorial</artifactId>
 		<version>6.5.0</version>
+		<relativePath />
 	</parent>
 
 	<artifactId>kurento-group-call</artifactId>
