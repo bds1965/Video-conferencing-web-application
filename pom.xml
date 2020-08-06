@@ -6,7 +6,7 @@
 		<groupId>org.kurento.tutorial</groupId>
 		<artifactId>kurento-tutorial</artifactId>
 		<version>6.5.0</version>
-		<relativePath />
+                <relative>Video-conferencing-web-application/pom.xml</relative>	
 	</parent>
 
 	<artifactId>kurento-group-call</artifactId>
